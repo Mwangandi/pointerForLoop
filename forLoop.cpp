@@ -25,5 +25,5 @@ void pointForLoop(){
 int main(){
 	// Function call
 	pointForLoop();
-
+	return 0;
 }
